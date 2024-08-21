@@ -63,7 +63,7 @@ class taller1 {
                 System.out.println("Opción no válida.");
         }
     }
-
+ 
 
     public static String agregarCartas(String[][] cartas){
         cartas[0][0] = "As"; cartas[0][1] = "11";
